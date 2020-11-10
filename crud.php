@@ -38,7 +38,7 @@
 
 
     <div class="col-md-4 col-lg-6">
-        <table class="table table-striped">
+        <table class="table table-dark table-striped">
             <thead>
                 <tr>
                     <th>First Name </th>
